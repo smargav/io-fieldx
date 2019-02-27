@@ -3,12 +3,13 @@
   <groupId>io.fieldx</groupId>
   <artifactId>fieldx-io</artifactId>
   <versioning>
-    <release>1.1</release>
+    <release>1.1.1</release>
     <versions>
       <version>0.1</version>
       <version>1.0</version>
       <version>1.1</version>
+      <version>1.1.1</version>
     </versions>
-    <lastUpdated>20190227134429</lastUpdated>
+    <lastUpdated>20190227151144</lastUpdated>
   </versioning>
 </metadata>
