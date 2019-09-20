@@ -34,7 +34,7 @@
     <dependency>
       <groupId>com.smargav</groupId>
       <artifactId>api</artifactId>
-      <version>1.4.3</version>
+      <version>1.4.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
